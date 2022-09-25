@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "3537fd53f8109aa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d371b2a81b2048a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Practical Stoicism. Your Action Guide On How To Implement The Stoic Philosophy Into Your Own Life.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2a399b978e23b7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "62d09154f869651d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1310769963d35991",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb5dff746c9ce7e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6596d6baf7321e4e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b8af763f6a77f6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "558525d349f2f9bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "372167de1b926156",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Practical Stoicism. Your Action Guide On How To Implement The Stoic Philosophy Into Your Own Life.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bedf1d61436bba06",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Practical Stoicism. Your Action Guide On How To Implement The Stoic Philosophy Into Your Own Life.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd4184dac0852761",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6ead7aa90aec680f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Practical Stoicism. Your Action Guide On How To Implement The Stoic Philosophy Into Your Own Life.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8d371b2a81b2048a",
+  "lastOpenFiles": [
+    "Practical Stoicism. Your Action Guide On How To Implement The Stoic Philosophy Into Your Own Life.md",
+    "Assets/PracticalStoicism.png"
+  ]
+}
